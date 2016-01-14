@@ -1,0 +1,6 @@
+1.- Sobre-asignación
+Cuando un recurso esta asignado a varias tareas
+y sobrepasa su capacidad.
+
+
+
